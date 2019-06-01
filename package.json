@@ -1,0 +1,36 @@
+{
+  "name": "bitengine",
+  "version": "1.0.0",
+  "description": "Tiny 2D game engine on top of PixiJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faycel-Arab/BitEngine.git"
+  },
+  "keywords": [
+    "Game-engine",
+    "PixiJs",
+    "2D",
+    "Typescript",
+    "WebGL",
+    "Canvas"
+  ],
+  "author": "Faycel ARAB",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Faycel-Arab/BitEngine/issues"
+  },
+  "homepage": "https://github.com/Faycel-Arab/BitEngine#readme",
+  "devDependencies": {
+    "@types/chai": "^4.1.7",
+    "@types/mocha": "^5.2.7",
+    "@types/pixi.js": "^4.8.7",
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "pixi.js": "^5.0.3",
+    "ts-node": "^8.2.0"
+  }
+}
